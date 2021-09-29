@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rauldb-br
-- 👀 I’m interested in Odoo ERP
+- 👀 I’m interested in Odoo ERP - Python - E-Commerce (Megento)
 - 🌱 I’m currently learning OWL Framework
 - 💞️ I’m looking to collaborate on OCA
 - 📫 How to reach me rauldavo22@gmail.com
